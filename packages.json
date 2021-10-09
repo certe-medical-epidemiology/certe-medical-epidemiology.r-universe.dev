@@ -2,5 +2,13 @@
     {
         "package": "certedata",
         "url": "https://github.com/certe-medical-epidemiology/certedata"
+    },
+    {
+        "package": "certemail",
+        "url": "https://github.com/certe-medical-epidemiology/certemail"
+    },
+    {
+        "package": "certestyle",
+        "url": "https://github.com/certe-medical-epidemiology/certestyle"
     }
 ]
