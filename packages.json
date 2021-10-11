@@ -12,6 +12,10 @@
         "url": "https://github.com/certe-medical-epidemiology/certestyle"
     },
     {
+        "package": "certetoolbox",
+        "url": "https://github.com/certe-medical-epidemiology/certetoolbox"
+    },
+    {
         "package": "AMR",
         "url": "https://github.com/msberends/AMR"
     }
