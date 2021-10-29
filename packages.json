@@ -12,6 +12,14 @@
         "url": "https://github.com/certe-medical-epidemiology/certestyle"
     },
     {
+        "package": "certedb",
+        "url": "https://github.com/certe-medical-epidemiology/certedb"
+    },
+    {
+        "package": "certeprojects",
+        "url": "https://github.com/certe-medical-epidemiology/certeprojects"
+    },
+    {
         "package": "certetoolbox",
         "url": "https://github.com/certe-medical-epidemiology/certetoolbox"
     },
