@@ -24,6 +24,10 @@
         "url": "https://github.com/certe-medical-epidemiology/certetoolbox"
     },
     {
+        "package": "certeplot2",
+        "url": "https://github.com/certe-medical-epidemiology/certeplot2"
+    },
+    {
         "package": "AMR",
         "url": "https://github.com/msberends/AMR"
     }
