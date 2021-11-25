@@ -28,6 +28,10 @@
         "url": "https://github.com/certe-medical-epidemiology/certeplot2"
     },
     {
+        "package": "certestats",
+        "url": "https://github.com/certe-medical-epidemiology/certestats"
+    },
+    {
         "package": "AMR",
         "url": "https://github.com/msberends/AMR"
     }
