@@ -32,6 +32,10 @@
         "url": "https://github.com/certe-medical-epidemiology/certestats"
     },
     {
+        "package": "certegis",
+        "url": "https://github.com/certe-medical-epidemiology/certegis"
+    },
+    {
         "package": "AMR",
         "url": "https://github.com/msberends/AMR"
     }
