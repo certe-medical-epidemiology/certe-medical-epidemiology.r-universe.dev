@@ -38,14 +38,6 @@
     {
         "package": "certeapi",
         "url": "https://github.com/certe-medical-epidemiology/certeapi"
-    },
-    {
-        "package": "AMR",
-        "url": "https://github.com/msberends/AMR"
-    },
-    {
-        "package": "cleaner",
-        "url": "https://github.com/msberends/cleaner"
     }
 
 ]
