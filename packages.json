@@ -38,6 +38,10 @@
     {
         "package": "certeapi",
         "url": "https://github.com/certe-medical-epidemiology/certeapi"
+    },
+    {
+        "package": "plot2",
+        "url": "https://github.com/msberends/plot2"
     }
 
 ]
