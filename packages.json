@@ -40,6 +40,10 @@
         "url": "https://github.com/certe-medical-epidemiology/certeapi"
     },
     {
+        "package": "msgxtractr",
+        "url": "https://github.com/certe-medical-epidemiology/msgxtractr"
+    },
+    {
         "package": "plot2",
         "url": "https://github.com/msberends/plot2"
     }
