@@ -48,8 +48,8 @@
         "url": "https://github.com/certe-medical-epidemiology/certellm"
     },
     {
-        "package": "EpiSODE",
-        "url": "https://github.com/certe-medical-epidemiology/EpiSODE"
+        "package": "EpiSODIC",
+        "url": "https://github.com/certe-medical-epidemiology/EpiSODIC"
     },
     {
         "package": "plot2",
