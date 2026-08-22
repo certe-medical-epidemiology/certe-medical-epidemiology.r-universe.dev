@@ -48,6 +48,10 @@
         "url": "https://github.com/certe-medical-epidemiology/certellm"
     },
     {
+        "package": "EpiSODE",
+        "url": "https://github.com/certe-medical-epidemiology/EpiSODE"
+    },
+    {
         "package": "plot2",
         "url": "https://github.com/msberends/plot2"
     }
